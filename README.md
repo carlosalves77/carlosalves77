@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosalves77&label=Profile%20views&color=0e75b6&style=flat" alt="carlosalves77" /> </p>
 
-- 🌱 I’m currently learning **React Native / Kotlin / TypeScript / Mobile**
+- 🌱 I’m currently learning ** Kotlin / Android / Mobile**
 
 - 💬 Ask me about **Android / Mobile**
 
 - 📫 How to reach me **carlosaalves07@outlook.com**
-
-- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
