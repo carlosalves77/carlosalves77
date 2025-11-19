@@ -37,5 +37,3 @@
   <br>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carlosalves77&layout=compact&theme=radical&hide=css,html,javascript&locale=pt-br" alt="Linguagens Mais Usadas" />
 </div>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=carlosalves77&theme=radical&locale=pt-br" alt="Streak de Contribuições" /></p>
