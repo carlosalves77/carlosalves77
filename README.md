@@ -31,9 +31,3 @@
 </p>
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosalves77&show_icons=true&theme=radical&locale=pt-br" alt="Estatísticas do GitHub" />
-  <br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carlosalves77&layout=compact&theme=radical&hide=css,html,javascript&locale=pt-br" alt="Linguagens Mais Usadas" />
-</div>
